@@ -1,0 +1,22 @@
+.todolist {
+  width: 100%;
+  background: white;
+  padding: 20px;
+  padding-bottom: 5px;
+  box-sizing: border-box;
+}
+
+.todolist-body > ul {
+  padding: 0;
+  margin: 0;
+}
+
+.todolist-bottom {
+  text-align: right;
+  padding: 10px;
+}
+
+.todolist-bottom button {
+  color: #FC6063;
+  font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.todoitem,.todoitem-completed {
+  list-style: none;
+  padding: 5px;
+  margin-left: 0;
+  border-bottom: 1px solid #5FAAFF;
+}
+
+.todoitem {
+  color: grey;
+}
+
+.todoitem-completed {
+  color: red;
+  text-decoration: line-through;
+}
+
+.todoitem-delete {
+  background: red;
+  color: white;
+}
+
+.todoitem-toggle {
+}

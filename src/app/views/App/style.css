@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+div button input {
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+button {
+  border: 0;
+}
+
+.app {
+  width: 100vw;
+  height: 100vh;
+  background: #D45F70;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.app-wrapper {
+  padding: 20px;
+  width: 400px;
+  display: inline-block;
+  text-align: left;
+}
+
+.app-header {
+  font-size: 20px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.input-section {
+  margin: 10px 0;
+}
+
+.list-section {
+}

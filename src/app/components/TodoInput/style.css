@@ -1,0 +1,19 @@
+.todoinput {
+  width: 100%;
+  position: relative;
+}
+
+.todoinput input {
+  width: 100%;
+  padding: 10px;
+  border: 0px;
+  box-sizing: border-box;
+}
+
+.todoinput-button-add {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  color: #5FAAFF;
+  font-weight: bold;
+}
